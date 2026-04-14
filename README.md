@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd year Computer Science student** from Chennai, India, passionate about building AI that solves real-world problems — not just models that live in notebooks.
+I'm a **3rd year AI/ML student** from Chennai, India, passionate about building AI that solves real-world problems — not just models that live in notebooks.
 
 My focus is on the full ML journey: understanding messy data, training models that actually generalise, and shipping usable products. I believe the best AI is the kind you don't notice — it just works.
 
