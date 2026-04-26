@@ -1,12 +1,20 @@
 <h1 align="center">Hi there, I'm Shyam 👋</h1>
-
+ 
 <p align="center">
-  Welcome to my GitHub — where ideas become intelligent systems.
+  Welcome to my GitHub — building data-driven systems that turn ideas into real-world solutions.
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/shyam-2005-ds">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/RvTp8CEraN/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/shyamsridhar935">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/shyamsri8auv">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=SridharShyam&style=flat&color=blue" alt="Profile views" />
 </p>
