@@ -82,6 +82,25 @@ My focus is on the full ML journey: understanding messy data, training models th
 
 ---
 
+## 🧩 Coding Profiles
+ 
+<p align="center">
+  <a href="https://leetcode.com/u/RvTp8CEraN/">
+    <img src="https://leetcard.jacoblin.cool/RvTp8CEraN?theme=light&font=Nunito&ext=activity&hide_border=true" alt="LeetCode Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/shyamsri8auv">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/shyamsridhar935">
+    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## ✨ A Little More About Me
 
 > *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
@@ -96,13 +115,7 @@ My focus is on the full ML journey: understanding messy data, training models th
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SridharShyam&show_icons=true&hide_border=true&theme=default&hide=issues" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SridharShyam&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SridharShyam&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SridharShyam&hide_border=true" />
 </p>
 
 ---
