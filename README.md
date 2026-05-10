@@ -37,6 +37,13 @@ My focus is on the full ML journey: understanding messy data, training models th
 
 ## 🚀 Featured Projects
 
+### 🎭 Excuse as a Service (XaaS)
+> API that generates witty, context-aware excuses in 6 tones — corporate, casual, dramatic, technical, poetic, and villain — powered by LLaMA 3.3 70B via Groq
+
+*Because every missed deadline deserves a better story.*
+
+---
+
 ### 🏥 HealthSentinel AI
 > One unified platform that predicts your risk across **13 chronic diseases** and turns it into a personalised daily health plan — before symptoms appear.
 
