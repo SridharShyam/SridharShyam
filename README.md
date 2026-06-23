@@ -1,132 +1,131 @@
-<h1 align="center">Hi there, I'm Shyam 👋</h1>
- 
+<h1 align="center">Hi, I'm Shyam 👋</h1>
+
 <p align="center">
-  Welcome to my GitHub — building data-driven systems that turn ideas into real-world solutions.
+  <em>AI/ML Student &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; Building AI that works in the real world</em>
 </p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/shyam-2005-ds">
+  <a href="https://www.linkedin.com/in/shyam-2005-ds-ml">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/u/RvTp8CEraN/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/shyamsridhar935">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/shyamsri8auv">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SridharShyam&style=flat&color=blue" alt="Profile views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SridharShyam&style=flat&color=blue" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **3rd year AI/ML student** from Chennai, India, passionate about building AI that solves real-world problems — not just models that live in notebooks.
+I'm a **3rd year AI/ML student** from Chennai, India. I build end-to-end intelligent systems — from raw, messy data to deployed products that actually solve something.
 
-My focus is on the full ML journey: understanding messy data, training models that actually generalise, and shipping usable products. I believe the best AI is the kind you don't notice — it just works.
+My focus: the full ML pipeline. Clean data, models that generalise, and APIs that ship. I believe the best AI is the kind that just works — quietly, reliably, in the background of someone's life.
 
-- 🔭 &nbsp;Currently building: **HealthSentinel AI** & **Pantemonium**
-- 🌱 &nbsp;Currently learning: Deep Learning, LLMs, NLP, and model deployment
-- 💡 &nbsp;Interested in: Preventive healthcare AI, intelligent recommendation systems, and applied NLP
-- 💬 &nbsp;Ask me about: Python, Scikit-learn, PyTorch, Hugging Face, Flask APIs, data pipelines
-- 📍 &nbsp;Chennai, India
-
----
-
-## 🚀 Featured Projects
-
-### 🎭 Excuse as a Service (XaaS)
-> API that generates witty, context-aware excuses in 6 tones — corporate, casual, dramatic, technical, poetic, and villain — powered by LLaMA 3.3 70B via Groq
-
-*Because every missed deadline deserves a better story.*
+- 🔭 &nbsp;Currently building: **HealthSentinel AI**, **Pantemonium** & **Excuse as a Service**
+- 🌱 &nbsp;Currently learning: XGBoost · Hugging Face · NLTK · MLflow · LangChain
+- 💡 &nbsp;Interested in: Preventive healthcare AI · Intelligent recommendation systems · Applied NLP
+- 💬 &nbsp;Ask me about: Python · Scikit-learn · PyTorch · FastAPI · Data pipelines
+- 🏛️ &nbsp;Saveetha Engineering College, Chennai
+- 🤝 &nbsp;Open to collaborating on meaningful AI/ML projects
 
 ---
 
-### 🏥 HealthSentinel AI
-> One unified platform that predicts your risk across **13 chronic diseases** and turns it into a personalised daily health plan — before symptoms appear.
+## 🚀 Projects
 
-*Empowering people to act on their health before it's too late.*
+| Project | What it does | Stack |
+|---|---|---|
+| [🏥 HealthSentinel AI](https://github.com/SridharShyam) | Predicts risk across 13 chronic diseases and generates a personalised daily health plan — before symptoms appear | Python · Scikit-learn · FastAPI · Pandas |
+| [👗 Pantemonium](https://github.com/SridharShyam) | Translates body measurements into accurate, brand-specific size recommendations with quantified confidence scores | Python · PyTorch · Hugging Face · FastAPI |
+| [🎭 Excuse as a Service](https://github.com/SridharShyam/Excuse-as-a-Service) | API that generates witty, context-aware excuses in 6 tones — corporate, casual, dramatic, technical, poetic, and villain — powered by LLaMA 3.3 70B | Python · FastAPI · Groq · LLaMA 3.3 70B |
+| [🩺 Cirrhosis Stage Prediction](https://github.com/SridharShyam/Cirrhosis-Stage-and-Status-Prediction) | Medical ML model that predicts liver cirrhosis stage and patient status from clinical data | Python · Scikit-learn · Pandas · Jupyter |
+| [📊 RFM Customer Segmentation](https://github.com/SridharShyam/RFM-Based-Customer-Segmentation-for-Targeted-E-Commerce-Marketing) | RFM-based customer segmentation pipeline for targeted e-commerce marketing decisions | Python · KMeans · Pandas · Seaborn |
+| [📈 Time Series Forecasting](https://github.com/SridharShyam/End-to-end-Time-Series-Analysis-and-Forecasting) | End-to-end time series analysis and forecasting using classical statistical models | Python · Statsmodels · Matplotlib · Jupyter |
+
+> 🔗 Update HealthSentinel AI and Pantemonium links once pushed!
 
 ---
 
-### 👗 Pantemonium
-> An intelligent AI-powered apparel fit recommendation platform that eliminates sizing confusion by translating body measurements into **accurate, brand-specific size recommendations** with quantified confidence scores.
+## 🛠️ Tech Stack
 
-*Because "one size fits all" never actually does.*
-
----
-
-## 🛠️ Technologies & Tools
-
-**Languages**
+**🤖 ML / AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**ML / AI**
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**Data**
+**📊 Data Analysis & Visualization**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Web / Deployment**
+**🗄️ Databases**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**🌐 Deployment & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Tools**
+**🛠️ Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**🚀 Currently Learning**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-189E44?style=flat&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ---
 
 ## 🧩 Coding Profiles
- 
+
 <p align="center">
   <a href="https://leetcode.com/u/RvTp8CEraN/">
-    <img src="https://leetcard.jacoblin.cool/RvTp8CEraN?theme=light&font=Nunito&ext=activity&hide_border=true" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</p>
-<p align="center">
+  &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/shyamsri8auv">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-
+  &nbsp;
   <a href="https://www.hackerrank.com/profile/shyamsridhar935">
-    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-View%20My%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
-
----
-
-## ✨ A Little More About Me
-
-> *"The goal is to turn data into information, and information into insight."* — Carly Fiorina
-
-- 🎯 &nbsp;I love working on problems where AI can genuinely improve someone's life
-- 🧩 &nbsp;I enjoy breaking down complex ML concepts and making them work in the real world
-- 📚 &nbsp;Always reading about the latest in AI research, healthcare tech, and product design
-- 🤝 &nbsp;Open to collaborating on meaningful Machine Learning/Data Science projects
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SridharShyam&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SridharShyam&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Always building. Always learning. Always open to a good conversation about AI. 🚀</em>
+  <em>Always building. Always learning. Open to collaborating on meaningful AI/ML projects.</em>
 </p>
