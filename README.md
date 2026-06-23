@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Shyam 👋</h1>
-
 <p align="center">
-  <em>AI/ML Student &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; Building AI that works in the real world</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hi%2C%20I'm%20Shyam%20👋&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Chennai%2C%20India%20%7C%20Building%20AI%20that%20works%20in%20the%20real%20world&descAlignY=58&descSize=16&descFontColor=a0aec0&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -127,5 +125,5 @@ My focus: the full ML pipeline. Clean data, models that generalise, and APIs tha
 ---
 
 <p align="center">
-  <em>Always building. Always learning. Open to collaborating on meaningful AI/ML projects.</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 </p>
