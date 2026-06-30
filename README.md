@@ -30,7 +30,7 @@ I'm a **3rd year AI/ML student** from Chennai, India. I build end-to-end intelli
 
 My focus: the full ML pipeline. Clean data, models that generalise, and APIs that ship. I believe the best AI is the kind that just works — quietly, reliably, in the background of someone's life.
 
-- 🔭 &nbsp;Currently building: **HealthSentinel AI**, **Pantemonium** & **Excuse as a Service**
+- 🔭 &nbsp;Currently building: **Excuse as a Service**
 - 🌱 &nbsp;Currently learning: XGBoost · Hugging Face · NLTK · MLflow · LangChain
 - 💡 &nbsp;Interested in: Preventive healthcare AI · Intelligent recommendation systems · Applied NLP
 - 💬 &nbsp;Ask me about: Python · Scikit-learn · PyTorch · FastAPI · Data pipelines
@@ -43,14 +43,14 @@ My focus: the full ML pipeline. Clean data, models that generalise, and APIs tha
 
 | Project | What it does | Stack |
 |---|---|---|
-| [🏥 HealthSentinel AI](https://github.com/SridharShyam) | Predicts risk across 13 chronic diseases and generates a personalised daily health plan — before symptoms appear | Python · Scikit-learn · FastAPI · Pandas |
-| [👗 Pantemonium](https://github.com/SridharShyam) | Translates body measurements into accurate, brand-specific size recommendations with quantified confidence scores | Python · PyTorch · Hugging Face · FastAPI |
 | [🎭 Excuse as a Service](https://github.com/SridharShyam/Excuse-as-a-Service) | API that generates witty, context-aware excuses in 6 tones — corporate, casual, dramatic, technical, poetic, and villain — powered by LLaMA 3.3 70B | Python · FastAPI · Groq · LLaMA 3.3 70B |
 | [🩺 Cirrhosis Stage Prediction](https://github.com/SridharShyam/Cirrhosis-Stage-and-Status-Prediction) | Medical ML model that predicts liver cirrhosis stage and patient status from clinical data | Python · Scikit-learn · Pandas · Jupyter |
 | [📊 RFM Customer Segmentation](https://github.com/SridharShyam/RFM-Based-Customer-Segmentation-for-Targeted-E-Commerce-Marketing) | RFM-based customer segmentation pipeline for targeted e-commerce marketing decisions | Python · KMeans · Pandas · Seaborn |
+| [🧑‍🤝‍🧑 Gender Classification Using ML](https://github.com/SridharShyam/Data-Science-Machine-Learning-Analytics-Portfolio/tree/main/Beginner_Level/Gender_Classification) | Predicts gender based on physical attributes (height, weight, age) comparing multiple ML models | Python · Scikit-learn · Random Forest · KNN |
+| [🍿 Netflix Content Library Analysis](https://github.com/SridharShyam/Data-Science-Machine-Learning-Analytics-Portfolio/tree/main/Beginner_Level/Netflix_Content_Library_Analysis) | Exploratory Data Analysis (EDA) on Netflix dataset to uncover insights and trends | Python · Pandas · Matplotlib · Seaborn |
+| [🎬 Hybrid Movie Recommendation Engine](https://github.com/SridharShyam/Data-Science-Machine-Learning-Analytics-Portfolio/tree/main/Intermediate_Level/Movie_Recommendation_Engine) | Robust recommendation system combining Content-Based and Collaborative Filtering | Python · Scikit-surprise · TF-IDF · SVD |
+| [📈 Health Analytics Dashboard](https://github.com/SridharShyam/Data-Science-Machine-Learning-Analytics-Portfolio/tree/main/PowerBI_Dashboards) | Interactive Power BI dashboard analyzing body metrics across gender and age demographics | Power BI · Power Query · DAX |
 | [📈 Time Series Forecasting](https://github.com/SridharShyam/End-to-end-Time-Series-Analysis-and-Forecasting) | End-to-end time series analysis and forecasting using classical statistical models | Python · Statsmodels · Matplotlib · Jupyter |
-
-> 🔗 Update HealthSentinel AI and Pantemonium links once pushed!
 
 ---
 
