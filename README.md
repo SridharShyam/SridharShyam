@@ -30,7 +30,7 @@ I'm a **3rd year AI/ML student** from Chennai, India. I build end-to-end intelli
 
 My focus: the full ML pipeline. Clean data, models that generalise, and APIs that ship. I believe the best AI is the kind that just works — quietly, reliably, in the background of someone's life.
 
-- 🔭 &nbsp;Currently building: **Excuse as a Service**
+- 🔭 &nbsp;Currently building: **HealthSentinel AI** & **Pantemonium**
 - 🌱 &nbsp;Currently learning: XGBoost · Hugging Face · NLTK · MLflow · LangChain
 - 💡 &nbsp;Interested in: Preventive healthcare AI · Intelligent recommendation systems · Applied NLP
 - 💬 &nbsp;Ask me about: Python · Scikit-learn · PyTorch · FastAPI · Data pipelines
