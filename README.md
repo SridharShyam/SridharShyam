@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd-year AI/ML student** from Chennai, TN, India. I build end-to-end intelligent systems — from raw, messy data to deployed products that actually solve something.
+I'm a **4th-year AI/ML student** from Chennai, TN, India. I build end-to-end intelligent systems — from raw, messy data to deployed products that actually solve something.
 
 My focus: the full ML pipeline. Clean data, models that generalise, and APIs that ship. I believe the best AI is the kind that just works — quietly, reliably, in the background of someone's life.
 
