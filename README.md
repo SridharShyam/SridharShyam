@@ -40,7 +40,7 @@ My work bridges statistical analysis, machine learning pipelines, and production
 ## 💼 Industry Experience
 
 ### **Aitento** - AI Forward Intern *(6 Months)*
-- Engineered and supported core full-stack application development utilizing **Python**, **MongoDB**, and **Angular / TypeScript**.
+- Engineered and supported core full-stack application development utilizing **Python**, **MongoDB**, and **Angular (TypeScript)**.
 - Designed and integrated **Large Language Model (LLM)** pipelines, optimizing prompt architecture and fine-tuning output consistency for enterprise reliability.
 - Handled data retrieval and schema structuring with MongoDB to support responsive conversational intelligence workflows.
 
@@ -65,7 +65,7 @@ My work bridges statistical analysis, machine learning pipelines, and production
 - **Machine Learning & AI:** Supervised & Unsupervised Learning, Time Series Forecasting, Clustering (K-Means), Scikit-Learn, PyTorch, LLM Integration & Prompt Tuning
 - **Data Visualization & BI:** Power BI, DAX, Power Query, Matplotlib, Seaborn
 - **Databases & Warehousing:** MySQL, MongoDB
-- **Engineering & Deployment:** Python, FastAPI, TypeScript / Angular, Git, GitHub, Streamlit, RESTful APIs
+- **Engineering & Deployment:** Python, FastAPI, Angular (TypeScript), Git, GitHub, Streamlit, RESTful APIs
 
 ---
 
